@@ -1,19 +1,13 @@
 # Excel_Projects
-Project Objective:
+**Food Ordering Platform Analysis: Leveraging Data Insights**
 
-The objective of this project is to conduct a comprehensive analysis of Freshco Hypermarket's home delivery service, leveraging transactional data to gain insights and optimize operational efficiency and customer satisfaction. The analysis encompasses three key areas: order level analysis, completion rate analysis, and customer level analysis.
+**Project Objective:**
+The project aims to conduct a comprehensive analysis of Freshco Hypermarket's home delivery service, utilizing transactional data to optimize operational efficiency and customer satisfaction across orders, completion rates, and customer levels.
 
-Tasks Completed and Summary:
+**Tasks Completed and Summary:**
+1. **Order Level Analysis:** Analyzed order distribution, identified areas with the highest increase in monthly orders, and calculated delivery charges and discounts.
+2. **Completion Rate Analysis:** Examined completion rate patterns at slot versus day of the week and calculated completion rates at drop area and product order levels.
+3. **Customer Level Analysis:** Determined completion rates at the source level, calculated customer lifetime value (LTV), and analyzed average revenue per order.
+4. **Delivery Analysis:** Calculated average delivery times, and analyzed patterns in charges and delivery time across slots and areas, identifying operational opportunities for improvement.
 
-Order Level Analysis
-Completion Rate Analysis
-Customer Level Analysis
-Delivery Analysis
-
-Throughout the project, various Excel functionalities were utilized for comprehensive data analysis, visualization, cleaning, and transformation. Excel functions such as SUM, AVERAGE, MAX, MIN, COUNT, VLOOKUP, and IF statements were employed for data manipulation and calculation, including the calculation of delivery charges, discounts, and summarization of order distribution. Statistical analysis techniques were applied to identify trends and patterns in the data.
-
-Data visualization was facilitated through the creation of charts and graphs using Excel's charting features, aiding in the visualization of order distribution, completion rates, and delivery time patterns. Additionally, pivot tables were utilized to summarize and analyze order distribution at slot and delivery area levels.
-
-Excel's data cleaning tools were employed to remove duplicates, handle missing data, and format the dataset for analysis, facilitating the transformation of raw transactional data into usable formats. What-If Analysis was conducted to explore different scenarios and their impacts on completion rates and delivery efficiency.
-
-Data extraction and transformation from various sources were performed using Excel's Power Query feature, enabling in-depth analysis. Macro recording and VBA were utilized to automate repetitive tasks and streamline data analysis processes, enhancing automation capabilities and customizing Excel functionalities.
+Throughout the project, various Excel functionalities were utilized, including data manipulation and calculation with functions such as SUM, AVERAGE, VLOOKUP, and IF statements. Statistical analysis techniques were applied to identify trends and patterns. Data visualization was facilitated through charts and graphs, and pivot tables were used for summarization and analysis. Excel's data cleaning tools were employed for data transformation, and What-If Analysis was conducted to explore different scenarios. Power Query enabled data extraction and transformation, while macro recording and VBA enhanced automation capabilities and customized Excel functionalities.
